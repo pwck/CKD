@@ -14,11 +14,11 @@ Chronic kidney disease (CKD) refers to all five stages of kidney damage, from ve
 
 The way doctors measure how well your kidneys filter waste from your blood is by the estimated glomerular filtration rate, or eGFR. Your eGFR is a number based on your blood test for creatinine, a waste product in your blood
 
-![results](../images/ckd_stages.jpg)
+![results](./images/ckd_stages.jpg)
 <br><br>
 
 Started off by analyzing the nine data files provided, as shown below:
-![metrics](../images/data_files.jpg)
+![datafiles](./images/data_files.jpg)
 
 In these files were the information for 300 patients.<br>
 Some data processing done were:
