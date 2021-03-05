@@ -34,7 +34,7 @@ This dataset has an imbalanced class where the majority class (about 66.7%) show
 To determine the overall performance of the model, number of false negatives need to be reduced.
 
 Results from the models are shown in the table below:
-![metrics](../images/metrics.jpg)
+![metrics](./images/metrics.jpg)
 
 Based on the the results, we concluded that Logistics Regression with Class Weight has the best performance based on its high recall score. <br>The top five features are 'ldl_trend', 'sbp_trend', 'glu', 'ldl', and 'metoprolol'.
 
